@@ -27,7 +27,7 @@ The 2023 SUNYAC Men's Soccer results used for this project can be accessed using
 
 ## Models & Methods
 * Minimum Violations Ranking Method (MVR)
-* Linaer Algebra
+* Linear Algebra
 * Heatmaps
 * 3D Surface Plots
   
