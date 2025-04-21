@@ -13,7 +13,7 @@ The 2023 SUNYAC Men's Soccer results used for this project can be accessed using
   
 ## Authors
 **Bryan Jacobs**  
-**Hannah Olejniczak**
+**Hannah Olejniczak**  
 **Katie Kujawa**
   
   
